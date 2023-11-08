@@ -20,5 +20,6 @@ A chatbox functionality is also available using which users can chat with each o
 <li>JavaScript</li>
 
 ## `Installation`
+<li>Download the zip file and exact the file .</li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
